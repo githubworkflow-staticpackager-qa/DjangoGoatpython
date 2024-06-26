@@ -1,6 +1,6 @@
 # DjangoGoat
 
-An intentionally vulnerable Django app, to help Django developers learn
+An intentionally vulnerable Django app, to help Django developers learn.
 security testing.
 
 There are two main branches in this repo: `master` and `broken`.
